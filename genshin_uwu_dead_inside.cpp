@@ -6,8 +6,8 @@ int main()
 {
 
     for (int i = 1014; i > 5; i = i - 7) {
-        cout << i - 7 << " Andrei botskij botik" << "\n";
-        cout << "ded inside?" << "\n";
+        cout << i - 7 << " botskij botik" << "\n";
+        cout << "?" << "\n";
         Sleep(10);
     }
 }
