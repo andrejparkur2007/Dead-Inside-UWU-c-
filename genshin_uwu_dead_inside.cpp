@@ -11,3 +11,5 @@ int main()
         Sleep(10);
     }
 }
+
+//eto moj pervij kod na cpp eto pizdec parni
